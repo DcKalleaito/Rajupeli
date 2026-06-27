@@ -1,0 +1,22 @@
+{
+  "name": "Rallipeli",
+  "short_name": "Rallipeli",
+  "description": "Rallipeli Beta 1 by Eeli Noronen.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#b41414",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

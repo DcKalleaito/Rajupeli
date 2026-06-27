@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 250" aria-label="Rallipeli logo">
+        <defs>
+          <linearGradient id="lgA" x1="0" x2="1"><stop offset="0" stop-color="#fff7b6"/><stop offset=".36" stop-color="#ffd33b"/><stop offset=".72" stop-color="#f16b25"/><stop offset="1" stop-color="#b41414"/></linearGradient>
+          <linearGradient id="lgB" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".92"/><stop offset=".52" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#000" stop-opacity=".18"/></linearGradient>
+          <filter id="logoShadow" x="-20%" y="-40%" width="140%" height="190%"><feDropShadow dx="0" dy="9" stdDeviation="2.7" flood-color="#000" flood-opacity=".92"/><feDropShadow dx="0" dy="0" stdDeviation="9" flood-color="#ffcf42" flood-opacity=".18"/></filter>
+        </defs>
+        <path d="M42 190 C170 132 270 190 408 137 C548 82 648 118 774 54" fill="none" stroke="#120b06" stroke-width="42" stroke-linecap="round" opacity=".9"/>
+        <path d="M42 190 C170 132 270 190 408 137 C548 82 648 118 774 54" fill="none" stroke="#f7e5a4" stroke-width="9" stroke-linecap="round" stroke-dasharray="34 26" opacity=".95"/>
+        <g transform="translate(52 48) rotate(-7)">
+          <rect x="0" y="0" width="86" height="54" rx="5" fill="#111" stroke="#fff5d0" stroke-width="4"/>
+          <path d="M0 0h21v14H0zm42 0h22v14H42zm-21 14h21v14H21zm43 14h22v14H64zM0 28h21v14H0zm42 28h22v-14H42z" fill="#fff5d0" opacity=".95"/>
+        </g>
+        <text x="418" y="142" text-anchor="middle" font-size="108" fill="url(#lgA)" stroke="#241006" stroke-width="13" paint-order="stroke" filter="url(#logoShadow)" transform="skewX(-10)">RALLIPELI</text>
+        <text x="420" y="142" text-anchor="middle" font-size="108" fill="url(#lgB)" opacity=".7" transform="skewX(-10)">RALLIPELI</text>
+        <text x="424" y="184" text-anchor="middle" font-size="28" fill="#ffe7a0" stroke="#000" stroke-width="5" paint-order="stroke" letter-spacing="8">BETA 1</text>
+      </svg>
